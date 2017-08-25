@@ -1,0 +1,21 @@
+.header-color{
+	background-color: #638ca6;
+}
+.foco{
+	background-color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.body{
+	padding-top: 60px;
+	padding-bottom: 60px;
+	background: linear-gradient(white, #bfd4d9);
+}
+.soon{
+	font-family: 'Chewy', cursive;
+	font-weight: bold; font-size: 40px;
+	letter-spacing: 10px;
+	border: 2px solid #d93240;
+	border-radius: 5px;
+	padding: 10px;
+}
